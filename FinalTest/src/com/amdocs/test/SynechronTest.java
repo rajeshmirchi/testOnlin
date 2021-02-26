@@ -8,7 +8,8 @@ public class SynechronTest {
 	
 	public static void main(String... args) {
 
-		//System.out.println("Please enter number");
+		
+		//System.out.println("Please enter number"); Testing 2nd Push
 //		Scanner sc = new Scanner(System.in);
 		int number = 100; //sc.nextInt();
 		
